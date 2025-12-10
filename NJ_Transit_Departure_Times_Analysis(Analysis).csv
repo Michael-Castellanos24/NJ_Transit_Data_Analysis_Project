@@ -1,0 +1,58 @@
+Average Delay by Line,
+Line,Average of Delay (Minutes)
+Atl. City Line,17.38
+Bergen Co. Line ,3.69
+Gladstone Branch,4.47
+Main Line,4.39
+Montclair-Boonton,4.32
+Morristown Line,4.10
+No Jersey Coast,4.08
+Northeast Corrdr,4.23
+Pascack Valley,3.14
+Princeton Shuttle,0.71
+Raritan Valley,3.94
+,
+,
+,
+,
+,
+,
+Average Delay by Day of the Week,
+Day of Week,Average of Delay (Minutes)
+Sunday,3.45
+Monday,5.25
+Tuesday,4.56
+Wednesday,4.07
+Thursday,4.37
+Friday,4.47
+Saturday,4.07
+,
+,
+,
+,
+,
+,
+Train Status Breakdown,
+Status,Count of Train ID
+Cancelled,755
+Estimated,19693
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Train Status,Percentage
+Late,72.18%
+On Time,27.82%
+Grand Total,100.00%
